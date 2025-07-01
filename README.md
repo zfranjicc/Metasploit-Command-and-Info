@@ -3,6 +3,22 @@ Meterpreter is an advanced Metasploit payload that allows interaction with the t
 
 ---
 
+## 🛠️ Meterpreter Cheat Sheet – Table of Contents
+
+- 🛠️ [What is Meterpreter?](#what-is-meterpreter)
+- 🔍 [How it Works?](#how-it-works)
+- 📁 [Core Commands](#core-commands)
+- 📂 [File System Commands](#file-system-commands)
+- 🌐 [Networking Commands](#networking-commands)
+- 🖥️ [System Commands](#system-commands)
+- 🧠 [User Activity & Keystroke Logging](#user-activity--keystroke-logging)
+- 📸 [Webcam & Audio Commands](#webcam--audio-commands)
+- 🔐 [Privilege & Credential Commands](#privilege--credential-commands)
+- ⚠️ [Important Notes](#important-notes)
+
+
+---
+
 ### 🔍How it works?
 - Does not leave traces on disk (no .exe or .dll files).
 - Uses encrypted communication to avoid detection by IDS/IPS systems.
